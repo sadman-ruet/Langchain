@@ -41,9 +41,6 @@ Upload a PDF, and the app will generate questions and answers based on the conte
 Pdf_To_Qna/
 │── app.py            # Main application file
 │── requirements.txt  # Required dependencies
-│── utils.py          # Utility functions
-│── models/           # Pre-trained models (if needed)
-│── data/             # Sample PDFs
 │── README.md         # Documentation
 ```
 
